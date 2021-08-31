@@ -1,0 +1,6 @@
+/celerybeat-schedule.dat
+/celerybeat-schedule.bak
+/celerybeat-schedule.dir
+/db.sqlite3
+**/migrations/*
+!**/migrations/__init__.py
